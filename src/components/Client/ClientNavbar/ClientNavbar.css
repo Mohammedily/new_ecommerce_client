@@ -1,0 +1,23 @@
+nav{
+    position: fixed;
+}
+#imgnav{
+    height: 60px;
+}
+
+#nav-link{
+    font-size: 25px;
+    color: #ff5100e7;
+    font-weight: bold;
+    font-family: 'Abyssinica SIL', serif;
+    margin-right: 30px;
+}
+
+#nav-link:hover{
+    background-color: #ff5100e7;
+    color: white;
+}
+
+#id{
+    color: #ff5100e7;
+}

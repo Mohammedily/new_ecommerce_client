@@ -1,0 +1,47 @@
+#pro{
+    height: 90vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#as{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: #ff5100e7 2px solid;
+}
+
+#asas{
+    margin-top: 20px;
+    margin-bottom: 20px;
+  width: 100px;
+  height: 100px;
+  font-size: 25px;
+  font-weight: bold;
+}
+
+#orderh3a{
+    color: #ff5100e7;
+    font-weight: bold;
+    font-family: 'Abyssinica SIL', serif;
+ font-size: 25px;
+}
+
+#buttonlogouts{
+    border: none;
+    background-color: #ff5100e7;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 10px;
+}
+
+#azc{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    
+}

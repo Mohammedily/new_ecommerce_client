@@ -1,0 +1,99 @@
+#col{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+#card-body{
+    text-align: center;
+    color: #ff5100e7;
+    border: none;
+}
+
+#updatediv{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+#updateup, #updatedel{
+    background-color: #ff5100e7;
+    border: none;
+    color: white;
+    font-size: 18px;
+    font-weight: 700;
+    padding: 10px;
+    border-radius: 30px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+
+/* @media screen and (min-width: 577px) and (max-width: 764px) { 
+    #updatediv{
+        display: flex;
+        flex-direction: column;
+    }
+
+    #updateup, #updatedel{
+        margin-top: 20px;
+    }
+} */
+
+
+/* AdminUpdateview */
+
+
+#posd{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+}
+
+#hqw{
+    color: #ff5100e7;
+    font-size: 30px;
+}
+
+#hqws{
+    color: #ff5100e7;
+    margin-top: 20px;
+}
+
+#updatediv1{
+  display: flex;
+  flex-direction: row;
+}
+
+/* AdminUpdate */
+
+#updatediv{
+   
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+#updatedivs{
+   height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+
+#updateh4{
+    font-size: 30px;
+}
+
+
+#sbutton{
+    background-color: black;
+    color: white;
+    font-size: 17px;
+    padding: 15px;
+    border-radius: 30px;
+    font-weight: bold;
+    margin-top: 20px;
+}

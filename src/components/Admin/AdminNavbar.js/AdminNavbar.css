@@ -1,0 +1,79 @@
+#navbar-toggler{
+    text-align: left;
+  }
+  .offcanvas-title{
+      background-color: white;
+      color: black;
+      font-size: 40px;
+      font-weight: bold;
+      text-align: center !important;
+  }
+  #tog{
+  background-color: #ff5100e7;
+  }
+  
+  #togs{
+      background-color: black;
+      font-size: 20px;
+      padding: 10px;
+  font-weight: bold;
+  }
+  #off{
+      background-color: white;
+  }
+  
+  .offcanvas-body{
+      background-color: white;
+  }
+  
+  #nav_link{
+      margin-top: 60px;
+      font-size: 25px;
+      color: #ff5100e7 !important;
+      text-align: center;
+      font-family: 'Playfair Display', serif;
+  }
+  
+  #nav_link:hover{
+      background-color: #ff5100e7;
+      color: white !important;
+  }
+  
+  #menu{
+      color:  black;
+      font-size: 30px;
+      font-weight: bold !important;
+  }
+
+  #logoutbutton{
+    border: none;
+    background-color: transparent;
+    color: #ff5100e7;
+  }
+
+  #logoutbutton:hover{
+    color: white;
+  }
+
+  #Avatar{
+  width: 80px;
+  height: 80px;
+  font-size: 25px;
+  font-weight: bold;
+  text-align: center;
+  background-color: #ff5100e7;
+  }
+
+  #adminlogo{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  #username{
+    margin-top: 20px;
+    font-size: 25px;
+    font-weight: bold;
+  }
+  

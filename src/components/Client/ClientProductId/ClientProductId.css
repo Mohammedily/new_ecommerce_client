@@ -1,0 +1,50 @@
+#backbutton{
+    border: none;
+    background-color: #ff5100e7;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 10px;
+    margin-left: 20px;
+}
+
+#idcont{
+    height: 80vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#idh3{
+    margin-top: 20px;
+    font-size: 30px;
+    color: #ff5100e7;
+    font-weight: bold;
+    font-family: 'Abyssinica SIL', serif;
+    margin-right: 30px;
+}
+
+
+#idp{
+    margin-top: 30px;
+    font-size: 25px;
+    color: #ff5100e7;
+    font-weight: bold;
+    font-family: 'Abyssinica SIL', serif;
+    margin-right: 30px;
+}
+
+#cartbutton{
+    border: none;
+    background-color: #ff5100e7;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 15px;
+    border-radius: 30px;
+    margin-bottom: 20px;
+}
+
+#imgs{
+    margin-top: 20px;
+}
