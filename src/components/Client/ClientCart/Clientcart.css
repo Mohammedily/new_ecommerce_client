@@ -122,3 +122,12 @@ th{
     color: #ff5100e7;
     font-size: 30px;
 }
+
+#del{
+    border: none;
+    background-color: #ff5100e7;
+}
+
+#delico{
+    color: white;
+}
